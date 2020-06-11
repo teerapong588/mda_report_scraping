@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/opt/conda/bin/python3",
+    "_workbench.uiExtensions" : [ "peterjausovec.vscode-docker" ],
+    "python.jediEnabled": false
+}

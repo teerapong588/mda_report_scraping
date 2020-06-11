@@ -1,0 +1,12 @@
+name: base
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.7
+  - scrapy
+  - ipython
+  - boto3
+  - pip:
+    - openpyxl
+    - pylint
