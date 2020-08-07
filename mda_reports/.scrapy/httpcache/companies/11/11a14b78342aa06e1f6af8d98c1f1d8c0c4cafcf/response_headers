@@ -1,0 +1,20 @@
+Server: nginx
+Date: Fri, 07 Aug 2020 17:01:28 GMT
+Content-Type: text/html;charset=utf-8
+Set-Cookie: route=1fa1107262d2b8f5958a99078beee08e; Path=/
+Set-Cookie: JSESSIONID=F90A644CE364285248DF1311332D73B2.ITNPT-SET-TC04; Path=/set; HttpOnly
+Set-Cookie: id=""; Domain=.set.or.th; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/
+Set-Cookie: if=""; Domain=.set.or.th; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/
+Set-Cookie: st=""; Domain=.set.or.th; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/
+Set-Cookie: tm=""; Domain=.set.or.th; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/
+Set-Cookie: uref=""; Domain=.set.or.th; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/
+Set-Cookie: str_0=""; Domain=.set.or.th; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; Secure
+Set-Cookie: str_1=""; Domain=.set.or.th; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; Secure
+Set-Cookie: str_2=""; Domain=.set.or.th; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; Secure
+Set-Cookie: __setuid=CvoVFV8tiOhgQngJIOyUAg==; domain=.settrade.com; path=/
+Content-Language: en-US
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Content-Encoding: gzip
+X-Cache-Ref: F90A644CE364285248DF1311332D73B2.ITNPT-SET-TC04
+X-Cache-Status: MISS

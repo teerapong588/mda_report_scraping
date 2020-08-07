@@ -77,7 +77,7 @@ ITEM_PIPELINES = {
 
 DOWNLOAD_TIMEOUT = 1200
 
-FILES_STORE = 's3://cs-cmu-nlp-project/mda-reports/'
+FILES_STORE = 's3://cs-cmu-nlp-project/mda_reports_01/'
 
 MEDIA_ALLOW_REDIRECTS = True
 

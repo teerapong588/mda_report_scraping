@@ -22,6 +22,8 @@ class ManageDataPipeline(object):
     def process_item(self, item, spider):
         if item['file_urls']:
             item['file_urls'] = item['file_urls'][0]
+        if item['files']:
+            item['files'] = item['files'][0]['path'].split('/')[1]
         return item
 
 class DynamoDBStorePipeline(object):
@@ -30,7 +32,7 @@ class DynamoDBStorePipeline(object):
         # Get the service resource.
         dynamodb = boto3.resource('dynamodb',region_name=os.environ['region'])
 
-        table = dynamodb.Table('MdaReports')
+        table = dynamodb.Table('MdaReports01')
 
         table.put_item(
         Item={

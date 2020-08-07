@@ -1,0 +1,10 @@
+Cache-Control: public, max-age=180
+Content-Type: text/html; charset=utf-8
+Content-Encoding: gzip
+Expires: Fri, 07 Aug 2020 17:04:56 GMT
+Vary: Accept-Encoding
+X-Ua-Compatible: IE=11,IE=10,IE=9,IE=EDGE
+Date: Fri, 07 Aug 2020 17:01:56 GMT
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: TS01a5e5b3=012c1f76db18dffb16cfc482e5f75a5a5ad0fcbf4b32a437f2f1dc8319ac9a02739a856df34f632891786378a7387dd7340b17cb9f; Path=/; Domain=.market.sec.or.th; Secure; HTTPOnly
+Set-Cookie: TSc4887b32027=08f2067569ab2000c8d1639890e0b12b84b0d33ae7052fd69d66239b4e00209fef84a4e9aba0144b08002dfd77113000c879b08875097e5814ed03adea327fac126d9d0366cdd80ca1bd6d026db55fc044910c56329ce3a3ab114c3bbd173a24;Path=/
