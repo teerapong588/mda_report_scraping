@@ -32,7 +32,7 @@ class DynamoDBStorePipeline(object):
         # Get the service resource.
         dynamodb = boto3.resource('dynamodb',region_name=os.environ['region'])
 
-        table = dynamodb.Table('MdaReports01')
+        table = dynamodb.Table('MdaReports03')
 
         table.put_item(
         Item={
